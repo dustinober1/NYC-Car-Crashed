@@ -1,110 +1,183 @@
-altair @ file:///tmp/build/80754af9/altair_1599835197802/work
-anyio @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-t_zs64wy/anyio_1644482593257/work/dist
-appnope @ file:///Users/ktietz/ci_310/appnope_1643965056645/work
-argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
-argon2-cffi-bindings @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-wbf5edig/argon2-cffi-bindings_1644845754377/work
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
-attrs @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_978y9aqcd7/croot/attrs_1668696180911/work
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
-beautifulsoup4 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-15cbtalq/beautifulsoup4_1650462161715/work
-bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
-blinker==1.4
-Bottleneck @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_07078715-3ab7-4562-8d3d-d56b0eaa0f7dp504n_ny/croots/recipe/bottleneck_1657175566567/work
-brotlipy==0.7.0
-cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
-certifi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5d968ni_yn/croot/certifi_1671487774636/work/certifi
-cffi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_ab19r4bji3/croot/cffi_1670423206034/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-click @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-quwchbn8/click_1646123324461/work
-comm @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b19kb7be6_/croot/comm_1671231124262/work
-commonmark @ file:///Users/ktietz/demo/mc3/conda-bld/commonmark_1630649545323/work
-cryptography @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_8c_qoky_1b/croot/cryptography_1673298759921/work
-debugpy @ file:///Users/ktietz/ci_310/debugpy_1643965577625/work
-decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
-defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
-entrypoints @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-jb01gaox/entrypoints_1650293758411/work
-executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
-fastjsonschema @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_43a0jaiddu/croots/recipe/python-fastjsonschema_1661368628129/work
-flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
-future @ file:///Users/ktietz/ci_310/future_1643965899852/work
-gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
-GitPython @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_94qz9imiv3/croot/gitpython_1674662798306/work
-idna @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_771olrhiqw/croot/idna_1666125579282/work
-importlib-metadata @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-5pqd2z6f/importlib-metadata_1648710902288/work
-ipykernel @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_bappucl7zp/croot/ipykernel_1671488382153/work
-ipython @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f3hqea5kiu/croot/ipython_1674681427190/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
-ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1634143127070/work
-jedi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-f1t6hma6/jedi_1644315882177/work
-Jinja2 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_9fjgzv9ant/croot/jinja2_1666908141308/work
-jsonschema @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e5_l6coyjh/croots/recipe/jsonschema_1663375475589/work
-jupyter-server @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_c8338fkvq6/croot/jupyter_server_1671707627219/work
-jupyter_client @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b6tvppu00c/croot/jupyter_client_1671703056848/work
-jupyter_core @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_aa_owuo5e_/croot/jupyter_core_1672332232507/work
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
-jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
-lxml @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_71bcfe2b-fe7b-414a-9d7e-4f32bdd95f6d2vxca0jd/croots/recipe/lxml_1657545136492/work
-MarkupSafe @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_12c133f5-0720-4727-9c18-599a3af825723lzwham3/croots/recipe/markupsafe_1654597866058/work
-matplotlib-inline @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f6fdc0hldi/croots/recipe/matplotlib-inline_1662014472341/work
-mistune @ file:///Users/ktietz/ci_310/mistune_1643966732634/work
-nbclassic @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_3btejl1i1y/croot/nbclassic_1668174982725/work
-nbclient @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-08wgx75f/nbclient_1650373566605/work
-nbconvert @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_36au3u9s44/croot/nbconvert_1668450648628/work
-nbformat @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_94781rq_cg/croot/nbformat_1670352348390/work
-nest-asyncio @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_6b_e0dr4lw/croot/nest-asyncio_1672387130036/work
-notebook @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_92n14lq88x/croot/notebook_1668179891126/work
-notebook_shim @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f8mr1gjfb7/croot/notebook-shim_1668160580414/work
-numexpr @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_98sxk8lloi/croot/numexpr_1668713874222/work
-numpy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d18vvv3mag/croot/numpy_and_numpy_base_1672336185310/work
-packaging @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_952b3b8pj8/croot/packaging_1671697425767/work
-pandas==1.5.2
-pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
-parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
-pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow==9.3.0
-platformdirs @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f7wx6m2jsp/croots/recipe/platformdirs_1662711384790/work
-plotly==5.13.0
-prometheus-client @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_25sgeyk0j5/croots/recipe/prometheus_client_1659455103277/work
-prompt-toolkit @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_0blbsngvis/croot/prompt-toolkit_1672387317724/work
-protobuf==3.20.3
-psutil @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_1310b568-21f4-4cb0-b0e3-2f3d31e39728k9coaga5/croots/recipe/psutil_1656431280844/work
-ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
-pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
-pyarrow==8.0.0
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-pydeck @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f81e6129-729e-4f73-bc52-9c2b874b10bd7j6i1kz5/croots/recipe/pydeck_1657894572542/work
-Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
-Pympler @ file:///tmp/build/80754af9/pympler_1602785470644/work
-pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
-pyrsistent @ file:///Users/ktietz/ci_310/pyrsistent_1643962172005/work
-PySocks @ file:///Users/ktietz/ci_310/pysocks_1643961536721/work
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
-pytz @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_c56ru3yml9/croot/pytz_1671697451306/work
-pyzmq @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_8599562e-e9e5-443b-91db-7f7c0ba6aad3mrdoyvz4/croots/recipe/pyzmq_1657724196154/work
-requests @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b15e28ca-768e-4951-b4c6-8a7476e43183hrjpnkg9/croots/recipe/requests_1657734638595/work
-rich @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_29axdm7cdr/croots/recipe/rich_1659708297100/work
-semver @ file:///tmp/build/80754af9/semver_1603822362442/work
-Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-smmap @ file:///tmp/build/80754af9/smmap_1611694433573/work
-sniffio @ file:///Users/ktietz/ci_310/sniffio_1643964335533/work
-soupsieve @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d2jpk7eoyp/croot/soupsieve_1666296398381/work
-stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
-streamlit==1.18.1
-tenacity==8.2.1
-terminado @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_fcfvyc0an2/croot/terminado_1671751835701/work
-tinycss2 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_fcw5_i306t/croot/tinycss2_1668168825117/work
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-toolz @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_362wyqvvgy/croot/toolz_1667464079070/work
-tornado @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a61b4xoie9/croots/recipe/tornado_1662061692951/work
-traitlets @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_6301rd5qbe/croot/traitlets_1671143894285/work
-typing_extensions @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_10a8_u2ijw/croot/typing_extensions_1669923788997/work
-tzlocal @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f67jz0lgsk/croot/tzlocal_1668627404426/work
-urllib3 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_8fvc4z_gis/croot/urllib3_1673575619550/work
-validators @ file:///tmp/build/80754af9/validators_1612286467315/work
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
-webencodings==0.5.1
-websocket-client @ file:///Users/ktietz/ci_310/websocket-client_1643972661291/work
-widgetsnbextension @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-ppn8qoma/widgetsnbextension_1645010005457/work
-zipp @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_8cv5zqoqed/croot/zipp_1672387131277/work
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-arm64
+@EXPLICIT
+https://repo.anaconda.com/pkgs/main/osx-arm64/aws-c-common-0.6.8-h1a28f6b_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/blas-1.0-openblas.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/bzip2-1.0.8-h620ffc9_4.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/c-ares-1.18.1-h1a28f6b_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/ca-certificates-2023.01.10-hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/giflib-5.2.1-h80987f9_1.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/jpeg-9e-h1a28f6b_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libbrotlicommon-1.0.9-h1a28f6b_7.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libcxx-14.0.6-h848a8c0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libdeflate-1.8-h1a28f6b_5.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libev-4.33-h1a28f6b_1.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libffi-3.4.2-hca03da5_6.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libiconv-1.16-h1a28f6b_2.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libsodium-1.0.18-h1a28f6b_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libwebp-base-1.2.4-h1a28f6b_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/llvm-openmp-14.0.6-hc6e5704_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/ncurses-6.4-h313beb8_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/tzdata-2022g-h04d1e81_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/utf8proc-2.6.1-h1a28f6b_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/xz-5.2.10-h80987f9_1.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/zlib-1.2.13-h5a0b063_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/abseil-cpp-20211102.0-hc377ac9_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/aws-checksums-0.1.11-h1a28f6b_1.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/gflags-2.2.2-hc377ac9_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/icu-68.1-hc377ac9_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/lerc-3.0-hc377ac9_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libbrotlidec-1.0.9-h1a28f6b_7.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libbrotlienc-1.0.9-h1a28f6b_7.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libedit-3.1.20221030-h80987f9_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libgfortran5-11.3.0-h009349e_28.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libpng-1.6.37-hb8d0fd4_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libprotobuf-3.20.3-h514c7bf_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/lz4-c-1.9.4-h313beb8_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/openssl-1.1.1s-h1a28f6b_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/re2-2022.04.01-hc377ac9_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/readline-8.2-h1a28f6b_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/snappy-1.1.9-hc377ac9_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/tk-8.6.12-hb8d0fd4_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/zeromq-4.3.4-hc377ac9_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/aws-c-event-stream-0.1.6-hc377ac9_5.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/brotli-bin-1.0.9-h1a28f6b_7.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/freetype-2.12.1-h1192e45_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/glog-0.5.0-hc377ac9_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/grpc-cpp-1.46.1-h8e4afa7_1.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/krb5-1.19.4-h8380606_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libevent-2.1.12-hf27765b_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libgfortran-5.0.0-11_3_0_hca03da5_28.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libnghttp2-1.46.0-h95c9599_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libssh2-1.10.0-hf27765b_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libxml2-2.9.14-h8c5e841_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/sqlite-3.40.1-h7a7dc30_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/zstd-1.5.2-h8574219_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/brotli-1.0.9-h1a28f6b_7.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libboost-1.73.0-h49e8a49_12.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libcurl-7.87.0-h0f1d93c_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libopenblas-0.3.21-h269037a_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libthrift-0.13.0-hd358383_6.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libtiff-4.5.0-h313beb8_1.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libxslt-1.1.35-h9833966_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/orc-1.7.4-hb613a79_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/python-3.10.9-hc0d8a6c_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/appnope-0.1.2-py310hca03da5_1001.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/attrs-22.1.0-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/aws-sdk-cpp-1.8.185-h4a942e0_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/backcall-0.2.0-pyhd3eb1b0_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/osx-arm64/blinker-1.4-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/boost-cpp-1.73.0-h1a28f6b_12.conda
+https://repo.anaconda.com/pkgs/main/noarch/cachetools-4.2.2-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/certifi-2022.12.7-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/charset-normalizer-2.0.4-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/click-8.0.4-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/dataclasses-0.8-pyh6d0b6a4_7.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/debugpy-1.5.1-py310hc377ac9_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/decorator-5.1.1-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/defusedxml-0.7.1-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/entrypoints-0.4-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/executing-0.8.3-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/flit-core-3.6.0-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/future-0.18.2-py310hca03da5_1.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/idna-3.4-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/ipython_genutils-0.2.0-pyhd3eb1b0_1.conda
+https://repo.anaconda.com/pkgs/main/noarch/jupyterlab_widgets-1.0.0-pyhd3eb1b0_1.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/lcms2-2.12-hba8e193_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/libwebp-1.2.4-h68602c7_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/lxml-4.9.1-py310h2fae87d_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/markupsafe-2.1.1-py310h1a28f6b_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/mistune-0.8.4-py310h1a28f6b_1000.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/nest-asyncio-1.5.6-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/numpy-base-1.23.5-py310haf87e8b_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/packaging-22.0-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/pandocfilters-1.5.0-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/parso-0.8.3-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/pickleshare-0.7.5-pyhd3eb1b0_1003.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/platformdirs-2.5.2-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/prometheus_client-0.14.1-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/protobuf-3.20.3-py310h313beb8_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/psutil-5.9.0-py310h1a28f6b_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/ptyprocess-0.7.0-pyhd3eb1b0_2.conda
+https://repo.anaconda.com/pkgs/main/noarch/pure_eval-0.2.2-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/pycparser-2.21-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/pygments-2.11.2-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/pympler-0.9-py_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/pyrsistent-0.18.0-py310h1a28f6b_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/pysocks-1.7.1-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/python-fastjsonschema-2.16.2-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/pytz-2022.7-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/pyzmq-23.2.0-py310hc377ac9_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/semver-2.13.0-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/send2trash-1.8.0-pyhd3eb1b0_1.conda
+https://repo.anaconda.com/pkgs/main/noarch/six-1.16.0-pyhd3eb1b0_1.conda
+https://repo.anaconda.com/pkgs/main/noarch/smmap-4.0.0-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/sniffio-1.2.0-py310hca03da5_1.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/soupsieve-2.3.2.post1-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/toml-0.10.2-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/toolz-0.12.0-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/tornado-6.2-py310h1a28f6b_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/traitlets-5.7.1-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/wcwidth-0.2.5-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/webencodings-0.5.1-py310hca03da5_1.conda
+https://repo.anaconda.com/pkgs/main/noarch/wheel-0.37.1-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/zipp-3.11.0-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/anyio-3.5.0-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/asttokens-2.0.5-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/beautifulsoup4-4.11.1-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/bleach-4.1.0-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/cffi-1.15.1-py310h80987f9_3.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/comm-0.1.2-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/commonmark-0.9.1-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/gitdb-4.0.7-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/importlib-metadata-4.11.3-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/jedi-0.18.1-py310hca03da5_1.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/jinja2-3.1.2-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/jsonschema-4.16.0-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/jupyter_core-5.1.1-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/jupyterlab_pygments-0.1.2-py_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/matplotlib-inline-0.1.6-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/numpy-1.23.5-py310hb93e574_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/pexpect-4.8.0-pyhd3eb1b0_3.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/pillow-9.3.0-py310h313beb8_2.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/prompt-toolkit-3.0.36-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/python-dateutil-2.8.2-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/setuptools-65.6.3-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/terminado-0.17.1-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/tinycss2-1.2.1-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/typing_extensions-4.4.0-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/tzlocal-2.1-py310hca03da5_1.conda
+https://repo.anaconda.com/pkgs/main/noarch/validators-0.18.2-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/websocket-client-0.58.0-py310hca03da5_4.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/argon2-cffi-bindings-21.2.0-py310h1a28f6b_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/arrow-cpp-8.0.0-py310h6b3e42c_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/bottleneck-1.3.5-py310h96f19d2_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/brotlipy-0.7.0-py310h1a28f6b_1002.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/cryptography-38.0.4-py310h834c97f_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/gitpython-3.1.30-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/jupyter_client-7.4.8-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/nbformat-5.7.0-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/numexpr-2.8.4-py310hecc3335_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/pip-22.3.1-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/rich-12.5.1-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/stack_data-0.2.0-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/typing-extensions-4.4.0-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/argon2-cffi-21.3.0-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/ipython-8.8.0-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/nbclient-0.5.13-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/pandas-1.5.2-py310h46d7db6_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/pyarrow-8.0.0-py310hf303d72_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/pyopenssl-22.0.0-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/altair-4.1.0-py_1.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/ipykernel-6.19.2-py310h33ce5c2_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/nbconvert-6.5.4-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/urllib3-1.26.14-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/jupyter_server-1.23.4-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/requests-2.28.1-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/notebook-shim-0.2.2-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/nbclassic-0.4.8-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/notebook-6.5.2-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/widgetsnbextension-3.5.2-py310hca03da5_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/ipywidgets-7.6.5-pyhd3eb1b0_1.conda
+https://repo.anaconda.com/pkgs/main/osx-arm64/pydeck-0.7.1-py310hca03da5_0.conda
